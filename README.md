@@ -12,7 +12,7 @@ This project demonstrates how to build a functional Model Context Protocol (MCP)
 
 2. **Tech Stack** 🤖
 
-The system is built entirely with modern, lightweight tools:
+The system is built entirely with modern, lightweight tools: 
 
 ```
 • Python 3.10+
